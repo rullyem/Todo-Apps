@@ -1,0 +1,21 @@
+.main {
+    background-color: rgb(13, 104, 146);
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+    margin-top: 50px;
+}
+
+.content{
+    margin-top: 40px;
+    font-family: Arial Rounded MT;
+}
+
+h2{
+    color: white;
+    font-family: DFPOP1-W9;
+}
+
+#main-title{
+    text-align: center;
+}
